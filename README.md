@@ -1,3 +1,4 @@
+''
 emotion-detection-app/
 │
 ├── README.md
@@ -14,6 +15,8 @@ emotion-detection-app/
 │
 └── static/
     └── mywebscript.js
+''
+
 README.md
 # Emotion Detection Application
 
